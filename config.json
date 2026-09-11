@@ -1,0 +1,12 @@
+{
+  "gameversion": 12,
+  "dilversion": 2,
+  "loadversion": 2,
+  "loadUrl": "https://melron.pages.dev",
+  "dilUrl": "https://melron.pages.dev",
+  "gameUrl": "https://melron.pages.dev",
+  "load": ["game"],
+  "diller": [
+    "de", "it", "fr", "pt", "en", "es", "tr", "ro","endo"
+  ]
+}
