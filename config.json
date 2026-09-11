@@ -1,10 +1,10 @@
 {
-  "gameversion": 12,
-  "dilversion": 2,
-  "loadversion": 2,
-  "loadUrl": "https://melron.pages.dev",
-  "dilUrl": "https://melron.pages.dev",
-  "gameUrl": "https://melron.pages.dev",
+  "gameversion": 1,
+  "dilversion": 1,
+  "loadversion": 1,
+  "loadUrl": "https://yasar453.github.io/melron",
+  "dilUrl": "https://yasar453.github.io/melron",
+  "gameUrl": "https://github.com/yasar453/melron/releases/download/v1",
   "load": ["game"],
   "diller": [
     "de", "it", "fr", "pt", "en", "es", "tr", "ro","endo"
