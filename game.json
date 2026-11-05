@@ -3587,6 +3587,11 @@
     "fileName": "guideBalon",
     "localPath": "export.guide.guidebes.guideBalon",
     "class": "guide"
+  },
+  "721": {
+    "fileName": "guideHarabeMerkez",
+    "localPath": "export.guide.guidebes.guideHarabeMerkez",
+    "class": "guide"
   }
 }
 
