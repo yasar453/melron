@@ -3592,6 +3592,11 @@
     "fileName": "guideHarabeMerkez",
     "localPath": "export.guide.guidebes.guideHarabeMerkez",
     "class": "guide"
+  },
+  "722": {
+    "fileName": "newPowerPop",
+    "localPath": "export.reminder.change.newPowerPop",
+    "class": "change"
   }
 }
 
